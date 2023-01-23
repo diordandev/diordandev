@@ -4,7 +4,6 @@
 }
 
 body {
-  flex-wrap: wrap;
   display: flex;
   height: 100%;
   width: auto;
@@ -145,7 +144,9 @@ div {
 }
 
 .projects{
-  height: 25%;
+  height: 10%;
+  align-items: center;
+  justify-content: center;
   border-radius: 25px;
 }
 
@@ -154,7 +155,6 @@ div {
   margin-top: 0px;
   width: 100%;
   display: flex;
-  flex-wrap: wrap;
   background-color: #22212c;
   justify-content: space-between;
 }
@@ -162,6 +162,7 @@ div {
 .firstProject{
   display: flex;
   margin-left: 0px;
+  flex-basis: 50%;
   border-radius: 25px;
   flex-direction: column;
   height: auto;
@@ -171,10 +172,11 @@ div {
 
 .secondProject{
   display: flex;
+  flex: 1;
+  height: auto;
   margin-right: 0px;
   border-radius: 25px;
   flex-direction: column;
-  height: 100%;
   justify-content: center;
   align-items: center;
 }
