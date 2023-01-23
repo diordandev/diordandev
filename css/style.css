@@ -4,6 +4,7 @@
 }
 
 body {
+  flex-wrap: wrap;
   display: flex;
   height: 100%;
   width: auto;
@@ -35,7 +36,8 @@ div {
 .perfil {
   border-radius: 100%;
   border: 3px solid #00ff00;
-  width: 25%;
+  width: 100px;
+  height: 100px;
 }
 
 .foto {
@@ -124,7 +126,7 @@ div {
 
 .sobre {
   display: flex;
-  height: 10%;
+  height: 20%;
   border-radius: 25px;
   flex-direction: column;
   align-items: center;
@@ -143,15 +145,16 @@ div {
 }
 
 .projects{
-  height: 5%;
+  height: 25%;
   border-radius: 25px;
 }
 
 .recentsProjects{
-  height: 25%;
+  height: auto;
   margin-top: 0px;
   width: 100%;
   display: flex;
+  flex-wrap: wrap;
   background-color: #22212c;
   justify-content: space-between;
 }
@@ -161,7 +164,7 @@ div {
   margin-left: 0px;
   border-radius: 25px;
   flex-direction: column;
-  height: 100%;
+  height: auto;
   justify-content: center;
   align-items: center;
 }
