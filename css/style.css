@@ -1,0 +1,202 @@
+* {
+  margin: 8px;
+  color: #837e9f;  
+}
+
+body {
+  display: flex;
+  height: 100%;
+  width: auto;
+  background-color: #22212c;
+}
+
+aside {
+  display: flex;
+  height: 100%;
+  flex-basis: 25%;
+  flex-direction: column;
+  align-items: center;
+}
+
+main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+div {
+  height: 100%;
+  width: 100%;
+  border-radius: 5%;
+  background-color: #302f3d;
+}
+
+.perfil {
+  border-radius: 100%;
+  border: 3px solid #00ff00;
+  width: 25%;
+}
+
+.foto {
+  align-items: center;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.rede {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+}
+
+.redes {
+  display: flex;
+  width: auto;
+  margin-left: 3rem;
+}
+
+.esq {
+  height: 10%;
+  width: 90%;
+  display: flex;
+}
+
+.containerTecnologia {
+  display: flex;
+  flex-direction: column;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.contTecWord {
+  margin-top: 2rem;
+  margin-left: 2rem;
+  width: 10%;
+}
+
+.contLinguagens {
+  display: flex;
+  font-size: 15px;
+  justify-content: center;
+  width: auto;
+}
+
+.linguagem {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 86px;
+  height: 24px;
+  border-radius: 25px;
+  background-color: #cb92b1;
+  color: black;
+}
+
+.experiencias {
+  display: flex;
+  font-size: 12px;
+  flex-direction: column;
+  font-weight: normal;
+  margin-left: 3rem;
+  width: 50%;
+}
+
+.experiencias a {
+  font-size: 16px;
+  font-weight: bold;
+  height: 100%;
+}
+
+.sobreWord {
+  margin-top: 2rem;
+  display: flex;
+  margin-left: 2rem;
+  font-size: 25px;
+  font-weight: bold;
+  justify-content: space-between;
+  height: 5%;
+  width: auto;
+}
+
+.sobre {
+  display: flex;
+  height: 10%;
+  border-radius: 25px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.sobreText {
+  margin-top: 2rem;
+  margin-left: 2rem;
+  margin-bottom: 3rem;
+  width: auto;
+}
+
+.seeAll {
+  font-size: 12px;
+}
+
+.projects{
+  height: 5%;
+  border-radius: 25px;
+}
+
+.recentsProjects{
+  height: 25%;
+  margin-top: 0px;
+  width: 100%;
+  display: flex;
+  background-color: #22212c;
+  justify-content: space-between;
+}
+
+.firstProject{
+  display: flex;
+  margin-left: 0px;
+  border-radius: 25px;
+  flex-direction: column;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.secondProject{
+  display: flex;
+  margin-right: 0px;
+  border-radius: 25px;
+  flex-direction: column;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.projectTitle{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.nome{
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.image-Habits{
+  width: 300px;
+  height: 300px;
+  border-radius: 10%;
+}
+
+.containerExp {
+  display: flex;
+  flex-direction: column;
+  border-radius: 25px;
+  font-size: 25px;
+  height: 100%;
+  font-weight: bold;
+}
