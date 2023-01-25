@@ -1,10 +1,11 @@
 * {
   margin: 8px;
-  color: #837e9f;  
+  color: #837e9f;
 }
 
 body {
   display: flex;
+  flex-wrap: wrap;
   height: 100%;
   width: auto;
   background-color: #22212c;
@@ -119,13 +120,14 @@ div {
   font-size: 25px;
   font-weight: bold;
   justify-content: space-between;
+  align-items: center;
   height: 5%;
   width: auto;
 }
 
 .sobre {
   display: flex;
-  height: 20%;
+  height: auto;
   border-radius: 25px;
   flex-direction: column;
   align-items: center;
@@ -137,20 +139,22 @@ div {
   margin-left: 2rem;
   margin-bottom: 3rem;
   width: auto;
+  align-items: center;
+  justify-items: center;
 }
 
 .seeAll {
   font-size: 12px;
 }
 
-.projects{
-  height: 10%;
+.projects {
+  height: 5%;
   align-items: center;
   justify-content: center;
   border-radius: 25px;
 }
 
-.recentsProjects{
+.recentsProjects {
   height: auto;
   margin-top: 0px;
   width: 100%;
@@ -159,7 +163,7 @@ div {
   justify-content: space-between;
 }
 
-.firstProject{
+.firstProject {
   display: flex;
   margin-left: 0px;
   flex-basis: 50%;
@@ -170,7 +174,7 @@ div {
   align-items: center;
 }
 
-.secondProject{
+.secondProject {
   display: flex;
   flex: 1;
   height: auto;
@@ -181,17 +185,17 @@ div {
   align-items: center;
 }
 
-.projectTitle{
+.projectTitle {
   font-size: 20px;
   font-weight: bold;
 }
 
-.nome{
+.nome {
   font-size: 25px;
   font-weight: bold;
 }
 
-.image-Habits{
+.image-Habits {
   width: 300px;
   height: 300px;
   border-radius: 10%;
@@ -204,4 +208,27 @@ div {
   font-size: 25px;
   height: 100%;
   font-weight: bold;
+}
+
+@media screen and (max-width: 680px) {
+  .recentsProjects {
+    flex-wrap: wrap;
+    width: 100%;
+    margin: 0px;
+  }
+
+  .projects {
+    height: 13vh;
+  }
+
+  .firstProject, .secondProject {
+    flex-basis: auto;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+
+  body{
+    margin: 0px;
+  }
+  
 }
