@@ -28,13 +28,15 @@ Analista de BI com 3 anos de experiência em Power BI e 9 anos com experiencia S
 
 [📸 Ver Screenshots](projetos/dashboard-vendas/images/)
  
-  ## Redes sociais abaixo!
+  ## Redes sociais
  
 <div> 
   <a href="https://instagram.com/diordan.cardoso" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:diordantrabalhos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/diordan-cardoso-0bb6b11aa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+ ## Fale comigo
  
-  ![Snake animation](https://github.com/diordandev/diordandev/blob/output/github-contribution-grid-snake.svg)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-Fale_Comigo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5545999116925?text=Olá!+Vi+seu+portfólio+no+GitHub+e+gostaria+de+conversar+sobre+um+projeto+Power+BI)
 
 </div>
