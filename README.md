@@ -1,18 +1,32 @@
-## Bem-vindo(a) ao meu perfil pessoal 😁
+# 📊 Portfólio Power BI - Diordan Cardoso
 
- <div>
-   <a href="https://github.com/diordandev">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devemdobro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diordandev&layout=compact&langs_count=6&theme=tokyonight"/>
+## 👋 Sobre Mim
+Analista de BI com 3 anos de experiência em Power BI e 9 anos com experiencia SQL, especializado em sistemas RP. Transformo dados em insights acionáveis.
 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
- <br>
+## 🛠️ Habilidades Técnicas
+- **Power BI:** DAX, Power Query, Data Modeling
+- **Banco de Dados:** SQL Server, MySQL, PostgreSQL
+- **Visualização:** Dashboard Design, Storytelling
+- **ETL:** Power Query, SQL Integration, SSIS, Pentahoo
+
+## 📈 Projetos Destacados
+
+### 🎯 [Análise de Gestão - Empresa Inside Sistemas](projetos/analise-gestao-inside/)
+**Desafio:** A empresa gostaria de vivencia a "Gestão à vista". Que se refere a realizar o acompanhamento real time de todos os setores da empresa.
+**Solução:** Criado um Dashboard para cada setor, possibilitando a Gestão solicitada.
+**Resultados:** Aumento 15% da produtividade das equipes
+**Tecnologias:** Power BI, Power Query, Gestão de Pessoas, SQL, API, Excel, DAX
+
+[📸 Ver Screenshots](projetos/analise-gestao-inside/images/)
+
+### 🎯 [Dashboard de Acompanhamento Empresarial - Empresa Inviolável](projetos/dashboard-inviolavel/)
+**Desafio:** Empresa possuía diversas franqueadas e não possuía um sistema que centralizasse as susas informações.
+**Solução:** Criação de um Data lake/ Data Warehouse para centralização das informações pertinentes e criação de um Dashboard interativo com métricas-chave e análises complexas.
+**Resultados:** +35% na eficiência da equipe de Gestão
+**Tecnologias:** Power BI, SQL, DAX, SSIS
+**Observação:** A própria empresa preferiu um indicador sem contextualização
+
+[📸 Ver Screenshots](projetos/dashboard-vendas/images/)
  
   ## Redes sociais abaixo!
  
