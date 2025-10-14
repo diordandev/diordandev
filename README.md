@@ -1,4 +1,4 @@
-# 📊 Portfólio Power BI - Diordan Cardoso
+# 📊 Portfólio Analista de BI - Diordan Cardoso
 
 ## 👋 Sobre Mim
 Analista de BI com 3 anos de experiência em Power BI e 9 anos com experiencia SQL, especializado em sistemas RP. Transformo dados em insights acionáveis.
