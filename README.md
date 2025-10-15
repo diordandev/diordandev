@@ -17,7 +17,6 @@ Analista de BI com 3 anos de experiência em Power BI e 9 anos com experiencia S
 **Resultados:** Aumento 15% da produtividade das equipes
 **Tecnologias:** Power BI, Power Query, Gestão de Pessoas, SQL, API, Excel, DAX
 
-[📸 Ver Screenshots](projetos/analise-gestao-inside/images/)
 
 ### 🎯 [Dashboard de Acompanhamento Empresarial - Empresa Inviolável](projetos/dashboard-inviolavel/)
 **Desafio:** Empresa possuía diversas franqueadas e não possuía um sistema que centralizasse as susas informações.
@@ -26,9 +25,8 @@ Analista de BI com 3 anos de experiência em Power BI e 9 anos com experiencia S
 **Tecnologias:** Power BI, SQL, DAX, SSIS
 **Observação:** A própria empresa preferiu um indicador sem contextualização
 
-[📸 Ver Screenshots](projetos/dashboard-vendas/images/)
  
-  ## Redes sociais
+## Redes sociais
  
 <div> 
   <a href="https://instagram.com/diordan.cardoso" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
