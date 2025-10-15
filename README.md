@@ -9,6 +9,25 @@ Analista de BI com 3 anos de experiência em Power BI e 9 anos com experiencia S
 - **Visualização:** Dashboard Design, Storytelling
 - **ETL:** Power Query, SQL Integration, SSIS, Pentahoo
 
+## 🛠️ Habilidades Técnicas
+**Power BI:** 
+- DAX (Medidas complexas, tabelas calculadas)
+- Power Query (ETL, transformação de dados)  
+- Data Modeling (Modelagem estrela/snowflake)
+- Power BI Service (Publicação, agendamento)
+
+**Tecnologias Relacionadas:**
+- SQL (Consultas, otimização)
+- Excel Avançado (Power Pivot, fórmulas complexas)
+- Python (Pandas para análise de dados)
+
+## 💼 Experiência 
+- Desenvolvimento de dashboards interativos
+- Análise de dados e criação de KPIs
+- Transformação e limpeza de dados
+- Storytelling com dados para tomada de decisão
+- 
+
 ## 📈 Projetos Destacados
 
 ### 🎯 [Análise de Gestão - Empresa Inside Sistemas](projetos/analise-gestao-inside/)
