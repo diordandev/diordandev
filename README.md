@@ -1,59 +1,68 @@
-# 📊 Portfólio Analista de BI - Diordan Cardoso
+# 📊 Portfólio — Analista de Dados & BI
 
-## 👋 Sobre Mim
-Analista de BI com 3 anos de experiência em Power BI e 9 anos com experiencia SQL, especializado em sistemas RP. Transformo dados em insights acionáveis.
+## 👋 Sobre mim
 
-## 🛠️ Habilidades Técnicas
-- **Power BI:** DAX, Power Query, Data Modeling
-- **Banco de Dados:** SQL Server, MySQL, PostgreSQL
-- **Visualização:** Dashboard Design, Storytelling
-- **ETL:** Power Query, SQL Integration, SSIS, Pentahoo
+Analista de Dados e BI com 6 anos de experiência em SQL e 3 anos em Power BI, com atuação concentrada em sistemas ERP. Entrego o caminho completo do dado: extração e tratamento em SQL Server e SSIS, modelagem, e painéis usados como gestão à vista por diretoria, times técnicos e por uma rede de franquias.
 
-## 🛠️ Habilidades Técnicas
-**Power BI:** 
-- DAX (Medidas complexas, tabelas calculadas)
-- Power Query (ETL, transformação de dados)  
-- Data Modeling (Modelagem estrela/snowflake)
-- Power BI Service (Publicação, agendamento)
+O que eu trago além da ferramenta: anos de atendimento, suporte e levantamento de requisitos. Sei qual pergunta o gestor está tentando responder antes de montar o gráfico.
 
-**Tecnologias Relacionadas:**
-- SQL (Consultas, otimização)
-- Excel Avançado (Power Pivot, fórmulas complexas)
-- Python (Pandas para análise de dados)
+## 🛠️ Habilidades técnicas
 
-## 💼 Experiência 
-- Desenvolvimento de dashboards interativos
-- Análise de dados e criação de KPIs
-- Transformação e limpeza de dados
-- Storytelling com dados para tomada de decisão
-- 
+**Power BI**
+- DAX — medidas complexas e tabelas calculadas
+- Power Query — ETL e transformação de dados
+- Modelagem dimensional — estrela e snowflake
+- Power BI Service — publicação e agendamento
 
-## 📈 Projetos Destacados
+**Banco de dados**
+- SQL Server (6 anos) — consultas, otimização e modelagem
+- MySQL, PostgreSQL
 
-### 🎯 [Análise de Gestão - Empresa Inside Sistemas](projetos/analise-gestao-inside/)
-**Desafio:** A empresa gostaria de vivencia a "Gestão à vista". Que se refere a realizar o acompanhamento real time de todos os setores da empresa.
-**Solução:** Criado um Dashboard para cada setor, possibilitando a Gestão solicitada.
-**Resultados:** Aumento 15% da produtividade das equipes
-**Tecnologias:** Power BI, Power Query, Gestão de Pessoas, SQL, API, Excel, DAX
+**ETL e integração**
+- SSIS, Power Query, Pentaho
+- Integração entre sistemas via API
 
+**Análise**
+- Excel avançado — Power Pivot e fórmulas complexas
+- Python com pandas — em estudo
 
-### 🎯 [Dashboard de Acompanhamento Empresarial - Empresa Inviolável](projetos/dashboard-inviolavel/)
-**Desafio:** Empresa possuía diversas franqueadas e não possuía um sistema que centralizasse as susas informações.
-**Solução:** Criação de um Data lake/ Data Warehouse para centralização das informações pertinentes e criação de um Dashboard interativo com métricas-chave e análises complexas.
-**Resultados:** +35% na eficiência da equipe de Gestão
-**Tecnologias:** Power BI, SQL, DAX, SSIS
-**Observação:** A própria empresa preferiu um indicador sem contextualização
+**Negócio**
+- Levantamento de requisitos e regras de negócio em ERP
+- Definição de indicadores e storytelling com dados
 
- 
-## Redes sociais
- 
-<div> 
-  <a href="https://instagram.com/diordan.cardoso" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:diordantrabalhos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/diordan-cardoso-0bb6b11aa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+## 📈 Projetos
 
- ## Fale comigo
- 
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-Fale_Comigo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5545999116925?text=Olá!+Vi+seu+portfólio+no+GitHub+e+gostaria+de+conversar+sobre+um+projeto+Power+BI)
+### 🎯 Gestão à vista — Inside Sistemas
 
-</div>
+**Contexto.** Cada área da empresa extraía relatórios de ferramentas diferentes e não havia visão consolidada da operação. O acompanhamento dependia de planilhas montadas à mão.
+
+**Solução.** Painéis em Power BI sobre a base SQL Server, um para cada frente:
+- **Desenvolvimento** — entrega de demandas, prazos e volumetria
+- **Atendimento** — volumetria, insights e apoio à decisão
+- **Diretoria** — churn, inadimplência e indicadores empresariais
+
+**Resultado.** As áreas passaram a acompanhar seus indicadores em um único lugar e em tempo real, substituindo a extração manual de relatórios avulsos.
+
+**Tecnologias.** Power BI, DAX, Power Query, SQL Server, API, Excel
+
+### 🎯 Centralização da rede de franquias — Inviolável
+
+**Contexto.** A franqueadora acompanhava diversas franqueadas sem nenhum sistema que consolidasse as informações da rede. Cada unidade reportava do seu jeito.
+
+**Solução.** Estruturação de um repositório central de dados, com ETL em SSIS consolidando as bases de todas as franqueadas em um modelo único, e painel interativo construído sobre esse modelo.
+
+**Resultado.** A franqueadora passou a acompanhar financeiro, faturamento e quadro de pessoal de toda a rede em um único painel, sem consolidação manual entre unidades.
+
+**Tecnologias.** Power BI, SQL Server, SSIS, DAX, modelagem dimensional
+
+> Os dois projetos foram desenvolvidos em ambiente corporativo. Por confidencialidade, não há dados nem código publicados aqui — posso detalhar a modelagem e as decisões técnicas em conversa.
+
+## 🎓 Formação
+
+- **Análise e Desenvolvimento de Sistemas** — UNIPAR, Universidade Paranaense (2018)
+- Bootcamp Power BI · Linguagem DAX Essencial · Modelagem de Dados Essencial · Power Query Essencial · Fundamentos de Análise de Dados · Data Warehouse Week
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/diordan-cardoso-0bb6b11aa
+- E-mail: diordantrabalhos@gmail.com
